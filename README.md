@@ -7,8 +7,8 @@
 
 Evil Devill (Devil FaceBook Hacking Tool)
                 
-**username** `hacker`
-**password** `wasii`
+**LoaiAtallah** `hacker`
+**yusi123** `wasii`
 <p align="center">
   <a href="http://mocrz.blogspot.com/">
     <img src="https://img.shields.io/badge/EvilDevil-Mocrz-lightgrey">
